@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/play_released.png</file>
+        <file>resources/pause_released.png</file>
+        <file>resources/play_pressed.png</file>
+        <file>resources/chime01.wav</file>
+        <file>resources/pause_pressed.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/restart_released.png</file>
+        <file>resources/restart_pressed.png</file>
+        <file>resources/background.png</file>
+    </qresource>
+</RCC>
